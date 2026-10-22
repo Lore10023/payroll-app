@@ -1,0 +1,16 @@
+# Generate la compilare
+bin/
+obj/
+.vs/
+packages/
+*.user
+*.suo
+
+# Fișiere generate de aplicație
+PDF/*.pdf
+
+# Date sensibile
+connections.config
+
+# Altele
+*.log
